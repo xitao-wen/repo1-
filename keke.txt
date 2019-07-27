@@ -1,2 +1,7 @@
 hello keke
+<<<<<<< HEAD
+I am keke
+=======
+我是大明星
+>>>>>>> 38e9674b6b50b8997e976a49ae8928e54ab6d966
 jfdsakjfasdkl
